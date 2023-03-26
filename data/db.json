@@ -1,0 +1,23 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"Welcome to the new blog",
+             "body": "Lorem this is Can a Mediterranean diet help keep heart disease, dementia, and cancer…",
+             "likes" :20
+        },
+        {
+            "id":2,
+            "title":"Welcome to the Yangon",
+             "body": "Lorem this is Can a Mediterranean diet help keep heart disease, dementia, and cancer…",
+             "likes" :70
+        },
+        {
+            "id":3,
+            "title":"How to be ninja",
+             "body": "Lorem this is Can a Mediterranean diet help keep heart disease, dementia, and cancer…",
+             "likes" :24
+        }
+    ]
+  
+}
